@@ -71,8 +71,8 @@ if (idade >= 18){
 }
 */
 
-//var lista = ["João ", "Victor ", "Dulce ", "Cirino "];
-//lista.push("Amor");
+//var lista = ["João ", "Victor ", "Victor ", "Nelo "];
+//lista.push("lul");
 //lista.pop();
 //console.log(lista);
 //console.log(lista.length);
@@ -82,4 +82,4 @@ if (idade >= 18){
 //var idade2 = 20;
 //alert(nome + " tem " + idade + " anos");
 //console.log(idade + idade2);
-//console.log(nome.replace("João Victor", "Dulce Cirino"));
+//console.log(nome.replace("João Victor", "Victor Nelo"));
